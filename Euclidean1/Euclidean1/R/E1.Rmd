@@ -1,0 +1,14 @@
+---
+title: "Euclidean algorithm"
+author: "David Liman"
+date: '2021-10-23'
+output: html_document
+---
+
+Euclidean Algorithm
+
+
+package.skeleton(name="Euclidean1")
+
+?Build
+

@@ -1,0 +1,10 @@
+Package: Euclidean1
+Type: Package
+Title: Computes the Euclidean Algorithm for two integers.
+Version: 1.0
+Date: 2021-10-23
+Author: David Liman
+Maintainer: <daavidliman@gmail.com
+Description: The Euclidean Algorithm provides a solution to the GCD (greatest common divisor
+of two integers without a remainder.
+License: MIT License
